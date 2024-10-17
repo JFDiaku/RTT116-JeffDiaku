@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cfbae3a1-1b0e-46fb-8747-25c0f9368e7d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../GLAB/GLAB 303-9-1/Encapsulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../GLAB/GLAB 303-9-2/Inheritance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/.idea/303-2-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/ArithmeticOperatorsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/AssignmentOperatorsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/BitwiseOperatorsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/LogicalOperatorsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/RelationalOperatorsDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/TernaryOperatorDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/UnaryOperator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/out/production/303-2-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/out/production/303-2-1/.idea/303-2-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/out/production/303-2-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/out/production/303-2-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/303-2-1/out/production/303-2-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB - 303-6-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB - 303-6-1/.idea/GLAB - 303-6-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB - 303-6-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB - 303-6-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB - 303-6-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB - 303-6-1/EnhancedForLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB - 303-6-1/MeanSDArray.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB - 303-6-1/arraydemoOne.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB - 303-6-1/arraydemoTwo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB - 303-6-1/arraydemothree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB - 303-6-1/insertElements.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/.idea/303-3-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/IsEmptyExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/StringTrimExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/lengthDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/out/production/303-3-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/out/production/303-3-1/.idea/303-3-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/out/production/303-3-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/out/production/303-3-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-1/out/production/303-3-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-2/.idea/GLAB 303-3-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-2/ReadingStringFromConsole.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-3-2/ReadingStringFromConsole2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-1/.idea/GLAB 303-5-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-1/loopdemoone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-1/palindromeexmaple.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-1/sumofN.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-2/.idea/GLAB 303-5-2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-2/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-2/GuesstheNumber.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-2/SentinelValuedemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Module 303/GLAB 303-5-2/SubtractionQuizLoop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-4-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-4-1/.idea/PA 303-4-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-4-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-4-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-4-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-4-1/ControlFlow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-4-1/out/production/PA 303-4-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-4-1/out/production/PA 303-4-1/.idea/PA 303-4-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-4-1/out/production/PA 303-4-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-4-1/out/production/PA 303-4-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-4-1/out/production/PA 303-4-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-5-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-5-1/.idea/PA 303-5-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-5-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-5-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-5-1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-5-1/Loops.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-5-1/out/production/PA 303-5-1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-5-1/out/production/PA 303-5-1/.idea/PA 303-5-1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-5-1/out/production/PA 303-5-1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-5-1/out/production/PA 303-5-1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PA 303-5-1/out/production/PA 303-5-1/.idea/vcs.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2nZV4VqlNfhx2ImrmNBPDGc3Seu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/jeffr/Development/RTT_116 coursework/Homework/GLAB",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cfbae3a1-1b0e-46fb-8747-25c0f9368e7d" name="Changes" comment="" />
+      <created>1729180393993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1729180393993</updated>
+      <workItem from="1729180395085" duration="1735000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
