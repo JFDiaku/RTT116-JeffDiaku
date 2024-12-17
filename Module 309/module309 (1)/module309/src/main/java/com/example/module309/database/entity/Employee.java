@@ -1,11 +1,10 @@
-package org.example.database.entity;
+package com.example.module309.database.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
-import javax.xml.namespace.QName;
 import java.util.List;
 
 @Entity
@@ -40,14 +39,14 @@ public class Employee {
     @Column(name = "email")
     private String email;
 
-    @Column(name = "reports_to")
-    private int reportsTo;
+    @Column(name = "reports_to", nullable = true)
+    private Integer reportsTo;
 
     @Column(name = "job_title")
     private String jobTitle;
 
-    @Column(name = "vacation_hours")
-    private int vacationHours;
+    @Column(name = "vacation_hours", nullable = true)
+    private Integer vacationHours;
 
     @Column(name = "profile_image_url")
     private String profileImageUrl;
