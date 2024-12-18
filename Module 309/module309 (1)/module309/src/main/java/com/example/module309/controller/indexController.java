@@ -82,13 +82,5 @@ public class indexController {
         return response;
     }
 
-    @GetMapping("/customer/create")
-    public ModelAndView createCustomer() {
-        ModelAndView response = new ModelAndView();
-
-        response.setViewName("customer/createCustomer");
-
-        return response;
-    }
 
 }

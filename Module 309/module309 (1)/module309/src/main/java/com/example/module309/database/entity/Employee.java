@@ -19,7 +19,7 @@ public class Employee {
 //    Tells hibernate to auto increment id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     @Column(name = "id")
-    private int id;
+    private Integer id;
 
 // one employee can have many customers
 //    one to many relationship
